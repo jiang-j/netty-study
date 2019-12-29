@@ -1,4 +1,4 @@
-package com.jiangj;
+package com.jiangj.netty;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
